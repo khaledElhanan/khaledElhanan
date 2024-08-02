@@ -14,11 +14,8 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 💬 Ask me about **Back-End**
-
 - 📫 How to reach me **khaldbdalhnan383@gmail.com**
 
-- ⚡ Fun fact **Not Funny😐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
